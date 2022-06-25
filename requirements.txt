@@ -1,0 +1,7 @@
+Flask==2.1.1
+disnake==2.4.0
+dnspython==2.2.1
+Pillow==8.4.0
+motor==3.0.0
+loguru==0.6.0
+glob
